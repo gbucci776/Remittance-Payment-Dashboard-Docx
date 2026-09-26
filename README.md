@@ -1,5 +1,9 @@
 ## PowerApps Remittance Writeup
 
+> *This repository contains no PowerApps solution. This Documentation Repo contains no programmatic solution, no source code, and no proprietary information.*
+>
+> **Professional Portfolio Disclaimer**
+
 This solution monitors a shared revenue mailbox, automatically captures incoming remittance emails, archives payment files to SharePoint, extracts payment information, and presents the results through a centralized Power Apps dashboard. Solution updates and collaborations are completely contained in a private sandbox/production environment. (There is no Git version control for PowerApps solutions!)
 
 Gio's Notes:
